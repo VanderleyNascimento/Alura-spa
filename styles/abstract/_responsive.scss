@@ -4,3 +4,12 @@
      }
    
 }
+
+@media screen and (max-width: 768px) {
+
+        .curiosidade {
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+}
